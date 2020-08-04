@@ -2,4 +2,4 @@
 
 A True False game that will test your knowledge
 
-!(quiz_demo.gif)
+![Completed](quiz_demo.gif)
